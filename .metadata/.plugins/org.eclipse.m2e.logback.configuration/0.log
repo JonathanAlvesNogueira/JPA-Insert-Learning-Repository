@@ -1,0 +1,41 @@
+2023-03-10 14:02:57,965 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-03-10 14:05:09,085 [Worker-6: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.jonathan:jonathan-teste-jpa:1.0-SNAPSHOT @ C:\Users\joth1\Desktop\ola_mundos\jonathan-teste-jpa\pom.xml.
+2023-03-10 14:05:12,427 [Worker-6: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /jonathan-teste-jpa/src/main/java
+2023-03-10 14:05:12,433 [Worker-6: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /jonathan-teste-jpa/src/test/java
+2023-03-10 14:05:22,906 [Worker-6: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 25 sec
+2023-03-10 14:05:27,925 [Worker-6: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-10 14:05:27,939 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joth1\Desktop\ola_mundos\jonathan-teste-jpa\src\main\resources
+2023-03-10 14:05:27,948 [Worker-6: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-10 14:05:27,951 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joth1\Desktop\ola_mundos\jonathan-teste-jpa\src\test\resources
+2023-03-10 14:10:14,709 [Worker-18: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-10 14:10:14,727 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joth1\Desktop\ola_mundos\jonathan-teste-jpa\src\main\resources
+2023-03-10 14:10:14,748 [Worker-18: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-10 14:10:14,788 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joth1\Desktop\ola_mundos\jonathan-teste-jpa\src\test\resources
+2023-03-10 14:10:50,814 [Worker-16: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-10 14:10:50,817 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joth1\Desktop\ola_mundos\jonathan-teste-jpa\src\main\resources
+2023-03-10 14:10:50,824 [Worker-16: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-10 14:10:50,827 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joth1\Desktop\ola_mundos\jonathan-teste-jpa\src\test\resources
+2023-03-10 14:11:04,741 [Worker-18: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-10 14:11:04,762 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joth1\Desktop\ola_mundos\jonathan-teste-jpa\src\main\resources
+2023-03-10 14:11:04,768 [Worker-18: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-10 14:11:04,772 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joth1\Desktop\ola_mundos\jonathan-teste-jpa\src\test\resources
+2023-03-10 14:12:26,907 [Worker-18: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-10 14:12:26,911 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joth1\Desktop\ola_mundos\jonathan-teste-jpa\src\main\resources
+2023-03-10 14:12:26,926 [Worker-18: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-10 14:12:26,930 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joth1\Desktop\ola_mundos\jonathan-teste-jpa\src\test\resources
+2023-03-10 14:13:05,793 [Worker-19: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-10 14:13:05,796 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joth1\Desktop\ola_mundos\jonathan-teste-jpa\src\main\resources
+2023-03-10 14:13:05,805 [Worker-19: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-10 14:13:05,808 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joth1\Desktop\ola_mundos\jonathan-teste-jpa\src\test\resources
+2023-03-10 14:13:28,591 [Worker-17: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-10 14:13:28,600 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joth1\Desktop\ola_mundos\jonathan-teste-jpa\src\main\resources
+2023-03-10 14:13:28,623 [Worker-17: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-10 14:13:28,626 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joth1\Desktop\ola_mundos\jonathan-teste-jpa\src\test\resources
+2023-03-10 14:21:39,681 [Worker-21: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.jonathan:jonathan-teste-jpa:1.0-SNAPSHOT @ C:\Users\joth1\Desktop\ola_mundos\meu-primeiro-insert\pom.xml.
+2023-03-10 14:21:48,594 [Worker-21: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-10 14:21:48,598 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joth1\Desktop\ola_mundos\meu-primeiro-insert\src\main\resources
+2023-03-10 14:21:48,619 [Worker-21: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-10 14:21:48,673 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joth1\Desktop\ola_mundos\meu-primeiro-insert\src\test\resources
+2023-03-10 14:21:50,390 [Worker-25: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-10 14:21:50,393 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joth1\Desktop\ola_mundos\meu-primeiro-insert\src\main\resources
+2023-03-10 14:21:50,412 [Worker-25: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
